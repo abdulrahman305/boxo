@@ -11,7 +11,7 @@ require (
 	github.com/filecoin-project/go-clock v0.1.0
 	github.com/gabriel-vasile/mimetype v1.4.10
 	github.com/gammazero/chanqueue v1.1.1
-	github.com/gammazero/deque v1.1.0
+	github.com/gammazero/deque v1.2.0
 	github.com/google/uuid v1.6.0
 	github.com/gorilla/mux v1.8.1
 	github.com/hashicorp/golang-lru/v2 v2.0.7
@@ -22,12 +22,12 @@ require (
 	github.com/ipfs/go-cidutil v0.1.0
 	github.com/ipfs/go-datastore v0.9.0
 	github.com/ipfs/go-detect-race v0.0.1
-	github.com/ipfs/go-dsqueue v0.1.0
+	github.com/ipfs/go-dsqueue v0.1.1
 	github.com/ipfs/go-ipfs-delay v0.0.1
 	github.com/ipfs/go-ipfs-redirects-file v0.1.2
 	github.com/ipfs/go-ipld-format v0.6.3
 	github.com/ipfs/go-ipld-legacy v0.2.2
-	github.com/ipfs/go-log/v2 v2.8.2
+	github.com/ipfs/go-log/v2 v2.9.0
 	github.com/ipfs/go-metrics-interface v0.3.0
 	github.com/ipfs/go-peertaskqueue v0.8.2
 	github.com/ipfs/go-test v0.2.3
@@ -37,7 +37,7 @@ require (
 	github.com/ipld/go-ipld-prime v0.21.0
 	github.com/libp2p/go-buffer-pool v0.1.0
 	github.com/libp2p/go-doh-resolver v0.5.0
-	github.com/libp2p/go-libp2p v0.44.0
+	github.com/libp2p/go-libp2p v0.45.0
 	github.com/libp2p/go-libp2p-kad-dht v0.35.1
 	github.com/libp2p/go-libp2p-record v0.3.1
 	github.com/libp2p/go-libp2p-routing-helpers v0.7.5
@@ -70,7 +70,7 @@ require (
 	go.opentelemetry.io/otel/sdk v1.38.0
 	go.opentelemetry.io/otel/trace v1.38.0
 	go.uber.org/zap v1.27.0
-	golang.org/x/exp v0.0.0-20251009144603-d2f985daa21b
+	golang.org/x/exp v0.0.0-20251023183803-a4bb9ffd2546
 	golang.org/x/oauth2 v0.32.0
 	golang.org/x/sync v0.17.0
 	golang.org/x/sys v0.37.0
